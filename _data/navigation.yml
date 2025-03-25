@@ -1,0 +1,13 @@
+main:
+  - title: "Projects"
+    url: /projects/
+  - title: "People"
+    url: /people/
+  - title: "Publications"
+    url: /publications/
+  - title: "Philosophy"
+    url: /philosophy/
+  - title: "Media"
+    url: /media/
+  - title: "Teaching"
+    url: /teaching/
