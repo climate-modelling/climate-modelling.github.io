@@ -1,5 +1,5 @@
 ---
-lastname: "Kloewer"
+lastname: "Klöwer"
 firstname: "Milan"
 pub_id: "M Kloewer"
 role: "Group Leader"
