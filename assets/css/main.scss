@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+
+@charset "utf-8";
+
+// from computationalcameras.org
+.videos__container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 15px;
+}
+
+@media (max-width: 600px) {
+	.videos__container {
+		grid-template-columns: repeat(1, 1fr);
+	}
+}
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

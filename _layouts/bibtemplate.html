@@ -1,0 +1,39 @@
+---
+---
+
+{% for person in site.people %}
+ {% unless person.pub_id %}
+    {% assign first_initial = person.firstname | slice: 0 | prepend: ' ' %}
+    {% assign old_name = person.lastname | append: first_initial %}
+ {% else %}
+    {% assign old_name = person.pub_id %}
+ {% endunless %}
+ {% assign new_name = old_name | prepend: '<b>' | append: '</b>' %}
+ {% assign reference = reference | replace_first: old_name, new_name %}
+{% endfor %}
+
+<div class="text-justify">
+    {{ reference }}
+</div>
+
+{% if entry.note %}
+<div>
+    <em>{{ entry.note }}</em>
+</div>
+{% endif %}
+
+<div>
+    {% if entry.doi %}
+    <span><a href="{{ entry.doi | prepend: 'http://doi.org/' }}" class="btn btn--primary">link</a></span>
+    {% endif %}
+    {% if entry.hal_id %}
+    <span><a href="{{ entry.hal_id | prepend: 'http://hal.inria.fr/' }}">hal</a></span>
+    {% endif %}
+</div>
+<div>
+    {% if entry.pdf %}
+    <span><a href="{{ entry.pdf }}">pdf</a></span>
+    {% endif %}
+</div>
+
+<!-- <div><pre>{{ entry.bibtex }}</pre></div> -->

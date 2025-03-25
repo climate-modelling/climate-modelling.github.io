@@ -1,0 +1,54 @@
+{% assign people = include.people %}
+{% assign label = include.label | default: "People" %}
+
+{% if people.size > 1 %}
+  <h1 id="{{ label }}">{{ label }}</h1>
+
+  <div class="feature__wrapper">
+      {% for person in people %}
+          {% assign last_name =  person.lastname | prepend: " " %}
+          {% assign person_name = person.firstname | append: last_name %}
+          <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+              <div class="archive__item">
+                  {% if person.image_path %}
+                  <div class="archive__item-teaser">       
+                      <img src="{{ person.image_path | relative_url }}"
+                          alt="{% if person.alt %}{{ person.alt }}{% endif %}">                   
+                  </div>
+                  {% endif %}
+          
+                  <div class="archive__item-body">
+                  {% if person_name %}
+                      {% if person.website %}
+                          <a href="{{ person.website }}">
+                      {% endif %}
+                          <div class="archive__item-excerpt"> <b> {{ person_name }} </b></div>
+                      {%if person.website %}
+                      </a>
+                      {% endif %}
+                  {% endif %}
+          
+                  {% if person.role %}
+                  <div class="archive__item-details">
+                      {{ person.role | markdownify | remove: "<p>" | remove: "</p>" }}
+                  </div>
+                  {% endif %}
+          
+                  {% if person.pronouns %}
+                  <div class="archive__item-details">
+                      <i> {{ person.pronouns | markdownify | remove: "<p>" | remove: "</p>" }} </i>
+                  </div>
+                  {% endif %}                            
+          
+                  {% if person.subsequently %}
+                  <div class="archive__item-details">
+                      Subsequently: {{ person.subsequently | markdownify | remove: "<p>" | remove: "</p>" }}
+                  </div>
+                  {% endif %}   
+
+                  </div>
+              </div>                    
+          </div>
+      {% endfor %}
+  </div>
+{% endif %}
