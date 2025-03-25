@@ -15,25 +15,25 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Climate Analytics Lab"
+locale                   : "en-GB"
+title                    : "Climate Modelling Research Group"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "CAL"
+name                     : " "
 description              : >- # this means to ignore newlines until "baseurl:"
                               The Climate Analytics Lab aims to reduce uncertainty in the role of anthropogenic aerosol 
                               on the climate by exploiting recent advances in machine learning to enable improved 
                               projections and gain new insights from observations.
-url                      : "https://climate-analytics-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://climate-modelling.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "/ccog.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "climate-analytics-lab/climate-analytics-lab.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "climate-modellling/climate-modellling.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.svg"
-masthead_title           : "CAL" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -89,7 +89,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : dwatsonparris
+  username               : milankloewer
 facebook:
   username               :
   app_id                 :
@@ -112,11 +112,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Climate Analytics Lab"
+  name             : "Climate Modelling Research Group"
   avatar           : "/assets/images/logo.svg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Improving climate projections with machine learning"
-  location         : "UC San Diego"
-  email            : "dwatsonparris@ucsd.edu"
+  bio              : "Something with machine learning"
+  location         : "University of Oxford"
+  email            : "milan.kloewer@physics.ox.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
