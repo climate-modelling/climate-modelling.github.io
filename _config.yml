@@ -23,7 +23,7 @@ locale                   : "en-GB"
 title                    : "Climate Modelling Research Group"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : " "
+name                     : "Climate Modelling @Oxford"
 description              : >- # this means to ignore newlines until "baseurl:"
                             The Climate Modelling Research Group at the University of Oxford aims to improve
                             climate models.
@@ -88,7 +88,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : milankloewer
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -124,8 +124,8 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dwatsonparris"
+      icon: "fab fa-fw fa-bluesky-square"
+      # url: "https://twitter.com/dwatsonparris"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
