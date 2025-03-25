@@ -2,8 +2,8 @@
 lastname: "Poppins"
 firstname: "Mary"
 pub_id: "MP"
-role: "PhD Student"
-status: "active"
+role: "Honorary Professor"
+status: "alumn"
 pronouns: "she/her"
-image_path: /assets/images/headshots/poppins.jpg
+image_path: /assets/images/headshots/Mary_Poppins5.jpg
 ---
