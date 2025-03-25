@@ -1,7 +1,7 @@
 ---
-lastname: "Klöwer"
+lastname: "Kloewer"
 firstname: "Milan"
-pub_id: "MK"
+pub_id: "M Kloewer"
 role: "Group Leader"
 status: "active"
 pronouns: "he/him"
