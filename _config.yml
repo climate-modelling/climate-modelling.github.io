@@ -25,14 +25,13 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : " "
 description              : >- # this means to ignore newlines until "baseurl:"
-                              The Climate Analytics Lab aims to reduce uncertainty in the role of anthropogenic aerosol 
-                              on the climate by exploiting recent advances in machine learning to enable improved 
-                              projections and gain new insights from observations.
+                            The Climate Modelling Research Group at the University of Oxford aims to improve
+                            climate models.
 url                      : "https://climate-modelling.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "/ccog.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "climate-modellling/climate-modellling.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.svg"
+logo                     : "/assets/images/kloewer_lab2.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -113,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Climate Modelling Research Group"
-  avatar           : "/assets/images/logo.svg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/kloewer_lab2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Something with machine learning"
   location         : "University of Oxford"
   email            : "milan.kloewer@physics.ox.ac.uk"
@@ -132,7 +131,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/climate-analytics-lab"
+      url: "https://github.com/climate-modelling"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -148,7 +147,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/climate-analytics-lab"
+      url: "https://github.com/climate-modelling"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
