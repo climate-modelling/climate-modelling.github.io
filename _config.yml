@@ -120,7 +120,7 @@ author:
     - label: "Email"
       icon: "fa-solid fa-envelope"
       # url: "mailto:sonnewald@ucdavis.edu"
-    - label: "Atmospheric, Oceanic and Planetary Physics"
+    - label: "Department of Physics"
       icon: "fa-solid fa-building-columns"
       url: "https://www.physics.ox.ac.uk/our-people/kloewer"
     - label: "Bluesky"
