@@ -124,17 +124,11 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
+      icon: "fa-brands fa-square-bluesky"
       url: "https://milank.bsky.social"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-square-github"
       url: "https://github.com/climate-modelling"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
