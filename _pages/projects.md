@@ -8,7 +8,9 @@ classes: wide
 
 # Projects
 
-Samples of published and ongoing projects by the Climate Analytics Lab. Sort them by computational or Earth Science tags.
+Samples of published and ongoing projects by the Climate Modelling Research Group.
+These are also intended to give prospective students project ideas.
+
 
 {% case site.tag_archive.type %}
   {% when "liquid" %}
