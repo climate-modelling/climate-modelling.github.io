@@ -118,10 +118,10 @@ author:
   email            : "milan.kloewer@physics.ox.ac.uk"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fa-solid fa-envelope"
       # url: "mailto:sonnewald@ucdavis.edu"
     - label: "Atmospheric, Oceanic and Planetary Physics"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-solid fa-building-columns"
       url: "https://www.physics.ox.ac.uk/our-people/kloewer"
     - label: "Bluesky"
       icon: "fa-brands fa-square-bluesky"
