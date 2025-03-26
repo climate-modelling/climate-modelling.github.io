@@ -6,8 +6,6 @@ entries_layout: grid
 classes: wide
 ---
 
-# Projects
-
 Samples of published and ongoing projects by the Climate Modelling Research Group.
 These are also intended to give prospective students project ideas.
 
