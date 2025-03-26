@@ -123,7 +123,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky-square"
       url: "https://twitter.com/dwatsonparris"
     - label: "Facebook"
