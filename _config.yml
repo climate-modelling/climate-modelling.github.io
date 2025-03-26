@@ -125,7 +125,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-bluesky-square"
-      # url: "https://twitter.com/dwatsonparris"
+      url: "https://twitter.com/dwatsonparris"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
