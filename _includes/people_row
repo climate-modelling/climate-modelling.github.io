@@ -8,6 +8,13 @@
       {% for person in people %}
           {% assign last_name =  person.lastname | prepend: " " %}
           {% assign person_name = person.firstname | append: last_name %}
+
+          {% if person.pronouns %}
+            {% assign person_name = person_name | append: " (" %}
+            {% assign person_name = person_name | append: person.pronouns %}
+            {% assign person_name = person_name | append: ")" %}
+          {% endif %}  
+
           <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
               <div class="archive__item">
                   {% if person.image_path %}
@@ -38,13 +45,7 @@
                   <div class="archive__item-details-small">
                       {{ person.programme | markdownify | remove: "<p>" | remove: "</p>" }}
                   </div>
-                  {% endif %}
-          
-                  {% if person.pronouns %}
-                  <div class="archive__item-details">
-                      <i> {{ person.pronouns | markdownify | remove: "<p>" | remove: "</p>" }} </i>
-                  </div>
-                  {% endif %}                            
+                  {% endif %}                     
           
                   {% if person.subsequently %}
                   <div class="archive__item-details">
