@@ -47,7 +47,7 @@ layout: default
           </aside>
         {% endif %}
 
-        {% assign active_members = site.people | where: 'status', "active" | sort: "sort_display" | reverse %}
+        {% assign active_members = site.people | where: 'status', "active" | sort: "sort_display" }
         {% assign alumni_members = site.people | where: 'status', "alumn" %}
 
         {% include people_row people=active_members label="People" %}
