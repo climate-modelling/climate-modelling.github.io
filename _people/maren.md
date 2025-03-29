@@ -5,4 +5,5 @@ pub_id: "M Hoever"
 role: "PhD Student"
 programme: "Intelligent Earth CDT"
 status: "active"
+image_path: "/assets/images/headshots/baby_elephant.png"
 ---
