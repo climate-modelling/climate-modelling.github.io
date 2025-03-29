@@ -2,7 +2,7 @@
 lastname: "Klöwer"
 firstname: "Milan"
 pub_id: "M Kloewer"
-role: "Group Leader"
+role: "Research Fellow"
 status: "active"
 pronouns: "he/him"
 # sort_display: 4
