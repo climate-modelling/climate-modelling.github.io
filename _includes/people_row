@@ -1,7 +1,7 @@
 {% assign people = include.people %}
 {% assign label = include.label | default: "People" %}
 
-{% if people.size > 1 %}
+{% if people.size > 0 %}
   <h1 id="{{ label }}">{{ label }}</h1>
 
   <div class="feature__wrapper">
@@ -35,7 +35,7 @@
                   {% endif %}
 
                   {% if person.programme %}
-                  <div class="archive__item-details">
+                  <div class="archive__item-details-small">
                       {{ person.programme | markdownify | remove: "<p>" | remove: "</p>" }}
                   </div>
                   {% endif %}
