@@ -33,6 +33,12 @@
                       {{ person.role | markdownify | remove: "<p>" | remove: "</p>" }}
                   </div>
                   {% endif %}
+
+                  {% if person.programme %}
+                  <div class="archive__item-details">
+                      {{ person.programme | markdownify | remove: "<p>" | remove: "</p>" }}
+                  </div>
+                  {% endif %}
           
                   {% if person.pronouns %}
                   <div class="archive__item-details">
