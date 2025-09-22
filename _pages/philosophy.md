@@ -67,8 +67,8 @@ accurate formulations throughout the manuscript, and who can help defend it agai
 individual is expected to contribute, and what they will get in return (e.g., co-authorship in a publication).
 As the lead on a project, you have the best overview of who contributed how much, such that you can
 also propose authorship (or its order on a publication) to contributors if not discussed upfront.
-See also [CreDIT]([url](https://credit.niso.org/)), a contributor role taxonomy, or authorship policies
-of journals (e.g., [Nature’s policy]([url](https://www.nature.com/nature/editorial-policies/authorship))).
+See also [CreDIT](https://credit.niso.org/), a contributor role taxonomy, or authorship policies
+of journals (e.g., [Nature’s policy](https://www.nature.com/nature/editorial-policies/authorship).
 
 Similarly, if you are invited to collaborate, balance the potential, maturity, momentum of the project,
 and your expected contribution with what is offered in return. Some projects die before leading anywhere
@@ -130,8 +130,8 @@ personal wellbeing in academia by making space for other important things in lif
 
 ## Acknowledgements
 
-The group philosophy documented here borrows is heavily based on or copied from other following research
-lab principles, likely in order of similarity
+The group philosophy documented here is inspired from other following research
+lab principles, and partly borrows heavily, likely in order of similarity
 
 - [Climate Analytics Lab](https://climate-analytics-lab.github.io/philosophy/)
 - [Gilbert Lab principles](http://gilbertlab.ucsd.edu/our-team/expectations-principles/)
