@@ -6,7 +6,14 @@ toc: true
 toc_sticky: true
 ---
 
-(work in progress, [create a pull request](https://github.com/climate-modelling/climate-modelling.github.io/edit/main/_pages/philosophy.md) to suggest changes)
+Our group philosophy is a living document. We regularly revisit these paragraphs
+and include outcomes of recent discussions of how we want to do research together.
+So first principle of our group philosophy is that it's written by its members
+not just decided by the most senior person in the group.
+
+As this is a work in progress members can
+[create a pull request](https://github.com/climate-modelling/climate-modelling.github.io/edit/main/_pages/philosophy.md)
+to suggest changes.
 
 ## Inclusivity and diversity
 
@@ -42,6 +49,34 @@ days with a lower frequency of scheduled meetings.
 ## Invidiual meetings
 
 ## Collaborative work
+
+Collaborative work between group members, across the University, and with external researchers
+is strongly encouraged. In many cases, it’s more fun working together and overall beneficial
+to your professional career and your mental wellbeing by engaging with multiple people and/or
+different projects. Oxford’s Research Support has
+[guidance on external collaborations](https://researchsupport.admin.ox.ac.uk/governance/integrity/collaboration)
+which largely also applies to internal collaboration, but we discuss here particularly
+aspects for our collaborations within our research group.
+
+If you lead a project, it is helpful to think about what ideas, skills, or perspectives another
+person can bring to a project. You do not have to solve all problems yourself, in some projects,
+you may think of assembling a “superhero team”. One hero to help with a particular method, another
+one to create a specific visualisation, and sometimes you need a domain expert for scientifically
+accurate formulations throughout the manuscript, and who can help defend it against reviewers
+(often that is the supervisor, but it does not have to be). But discuss clearly upfront what each
+individual is expected to contribute, and what they will get in return (e.g., co-authorship in a publication).
+As the lead on a project, you have the best overview of who contributed how much, such that you can
+also propose authorship (or its order on a publication) to contributors if not discussed upfront.
+See also [CreDIT](https://credit.niso.org/), a contributor role taxonomy, or authorship policies
+of journals (e.g., [Nature’s policy](https://www.nature.com/nature/editorial-policies/authorship).
+
+Similarly, if you are invited to collaborate, balance the potential, maturity, momentum of the project,
+and your expected contribution with what is offered in return. Some projects die before leading anywhere
+for various reasons, and others would require 100% of your time for a close deadline.
+As a student writing a thesis, collaborations are important, often an asset, though they can also delay
+your progress towards a thesis - sometimes unexpectedly or outside of your control.
+At Oxford, theses can include contributions from other researchers, whether published (you or them as co-author)
+or not, but generally this has to be explicitly stated. Details can be discussed on a case-by-case basis.
 
 ## Communication
 
@@ -95,8 +130,8 @@ personal wellbeing in academia by making space for other important things in lif
 
 ## Acknowledgements
 
-The group philosophy documented here borrows is heavily based on or copied from other following research
-lab principles, likely in order of similarity
+The group philosophy documented here is inspired from other following research
+lab principles, and partly borrows heavily, likely in order of similarity
 
 - [Climate Analytics Lab](https://climate-analytics-lab.github.io/philosophy/)
 - [Gilbert Lab principles](http://gilbertlab.ucsd.edu/our-team/expectations-principles/)
