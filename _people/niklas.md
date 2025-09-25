@@ -6,5 +6,5 @@ pronouns: "he/him"
 role: "MSc Student"
 programme: "ETH Zurich"
 status: "active"
-image_path: "/assets/images/headshots/baby_elephant.png"
+image_path: "/assets/images/headshots/Niklas.jpg"
 ---
