@@ -105,6 +105,44 @@ time created to raise it.
 
 ## Social media and online presence
 
+Having an online presence can help spread your research to a wider community of scientists,
+journalists, and the public and foster collaborations. As an early-career scientist it is
+recommended to have some online presence, in the form of your own or a departmental or
+group website and/or social media profiles. Even when not used actively, it will make it
+easier for others to find you if they hear about your work. Nowadays the publicity of your work,
+e.g. published in journals, mostly rests on you and can be greatly amplified if done well.
+At the same time you are also possibly reaching out to a large audience so bear in mind who
+you explicitly or implicitly represent. This ranges from your research group, colleagues,
+to your department or university but you can also be seen as a representative of a whole area
+of research, depending with whom you engage.
+
+You may share published papers or preprints if publication policy and coauthors allow as well
+as talks, posters or links to public repositories. If not already public, make sure to get
+permission from coauthors or others involved, ask if unsure. In similar manner you may share
+group achievements such as awards, conference participation, invited talks, media coverage or
+outreach activities. Many scientists with a large reach also share personal perspectives,
+particularly societally relevant topics where their expert knowledge can weigh in.
+In the climate sciences this can range from renewable energy to biodiversity, water usage or
+computing technology but also be more reflective of issues within academia. Overall, sharing beyond
+your primary research outputs can greatly help you to gain visibility as a scientist, teach you how to
+communicate difficult topics or create engagement, all skills that are more or less important
+in your career too. 
+
+Different platforms can be used: Linkedin, Bluesky or personal blogs are popular, some scientists still
+post on X or Facebook for various reasons. Larger achievements can also be shared on the group or
+departmental website, or even in the form of press releases from the university or department.
+With the latter you have a higher chance of being covered in mainstream media which can have an
+enormous effect on your visibility. If journalists reach out, ideally respond within a few hours as
+they often work on very tight deadlines.  
+
+When sharing content, speed is important but this needs to be balanced with consensus from
+coauthors or contributors. Check with coauthors if materials include unpublished data and be
+generally aware of a potential risk that others scoop your research ideas. Sometimes you want to
+share and publish in a condensed time period to increase impact, sometimes mentioning a project over
+and over again will have a wider reach. And in general some materials you may want to share are under
+specific licenses or agreements that you need to align with. The general tone when engaging
+online is to be respectful, short critique can often be seen as offensive. 
+
 ## Vacation
 
 The UK has 8 [public holidays](https://www.gov.uk/bank-holidays) per year.
