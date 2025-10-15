@@ -43,5 +43,5 @@ the additional benefit of stochasticity in the system. Sure, this brings up ques
 in many cases stochastic approaches are used to represent uncertainty in the simulated systems, e.g.
 stochastic perturbations of initial conditions or parameters in weather forecasting. See also
 
-- 2023. Klöwer, M, PV Coveney, EA Paxton and TN Palmer. *Periodic orbits in chaotic systems simulated at low precision*, **Scientific reports**, [10.1038/s41598-023-37004-4](https://doi.org/10.1038/s41598-023-37004-4)|
-- 2022. Paxton EA, M Chantry, M Klöwer, L Saffin, TN Palmer. *Climate Modelling in Low-Precision: Effects of both Deterministic & Stochastic Rounding*, **Journal of Climate**, [10.1175/JCLI-D-21-0343.1](https://doi.org/10.1175/JCLI-D-21-0343.1)|
+- Klöwer, M, PV Coveney, EA Paxton and TN Palmer, 2023. *Periodic orbits in chaotic systems simulated at low precision*, **Scientific reports**, [10.1038/s41598-023-37004-4](https://doi.org/10.1038/s41598-023-37004-4)|
+- Paxton EA, M Chantry, M Klöwer, L Saffin, TN Palmer, 2022. *Climate Modelling in Low-Precision: Effects of both Deterministic & Stochastic Rounding*, **Journal of Climate**, [10.1175/JCLI-D-21-0343.1](https://doi.org/10.1175/JCLI-D-21-0343.1)|
