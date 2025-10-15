@@ -7,8 +7,9 @@ classes: wide
 ---
 
 Samples of published and ongoing projects by the Climate Modelling Research Group.
-These are also intended to give prospective students project ideas.
-
+These are also intended to give prospective students project ideas, particularly
+have a look at those marked "[OPEN]" but feel free to reach out with your own
+ideas too!
 
 {% case site.tag_archive.type %}
   {% when "liquid" %}
