@@ -5,16 +5,11 @@ hidden: true
 header:
 #   overlay_color: "#5e616c"
   overlay_image: /assets/images/header.jpg
-#   actions:
-    # - label: "<i class='fas fa-download'></i> Install now"
-    #   url: "/docs/quick-start-guide/"
 excerpt: 
     "at the University of Oxford"
 intro: 
   - excerpt: <cite>The Climate Modelling research group at Oxford combines climate and computer science to build better models of the climate on Earth and other planets. We do research on numerical modelling, machine learning and high-performance computing for efficient predictions of future climates; data compression and information theory; and software engineering to build next-generation climate models. </cite>
 
-#   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-#   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: https://github.com/user-attachments/assets/5e614339-820d-4c9a-a545-318863ff8b35
     alt: "SpeedyWeather simulation"
