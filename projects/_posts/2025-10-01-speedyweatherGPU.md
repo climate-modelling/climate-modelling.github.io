@@ -16,7 +16,7 @@ tags:
   - OPEN
 ---
 
-# [OPEN] Fast yet flexible: Atmospheric modelling and high-perfomance computing on the GPU
+# Fast yet flexible: Atmospheric modelling and high-perfomance computing on the GPU
 
 Atmospheric general circulation models form the backbone of Earth-system models, simulating the fastest processes in the climate system
 that most heavily impact humans and nature. They represent wind, pressure, temperature, humidity, and many atmospheric processes
