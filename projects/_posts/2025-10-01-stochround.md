@@ -1,7 +1,7 @@
 ---
 title: "StochasticRounding.jl: Up or down, maybe both?"
 excerpt:  "Stochastic rounding introduces random numbers in every little +, -, *, /, ... with big impacts on large scales of a simulated system"
-header:
+header: StochasticRounding.jl: Up or down, maybe both?
 teaser: https://github.com/user-attachments/assets/177e601a-1ce0-4f2a-af18-75367fb894f3
 share: false
 featured_figure: 
@@ -12,8 +12,6 @@ tags:
   - GPU programming
   - Stochastic
 ---
-
-# StochasticRounding.jl: Up or down, maybe both?
 
 Everytime you add, subtract, multiply, ... two numbers the result, if not representable as floating-point number of a
 given precision, has to be rounded. The conventional way of doing this is using deterministic round to nearest.
