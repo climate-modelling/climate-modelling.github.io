@@ -22,7 +22,7 @@ feature_row:
     alt: "Bitinformation"
     title: "Data compression and BitInformation"
     excerpt: "Compressing atmospheric data into its real information content"
-    url: "/projects/data-compression"
+    url: "/projects/datacompression"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://github.com/user-attachments/assets/c6e8a307-072b-4022-a56d-2af486fc46fd
