@@ -14,3 +14,4 @@ Change or extent current pages
 - Update publications, change [_pages/publications.md](https://github.com/climate-modelling/climate-modelling.github.io/edit/main/_pages/publications.md)
 - Update media coverage, change [_pages/media.md](https://github.com/climate-modelling/climate-modelling.github.io/edit/main/_pages/media.md)
 - Update teaching, change [_pages/teaching.md](https://github.com/climate-modelling/climate-modelling.github.io/edit/main/_pages/teaching.md)
+- Update highlights, change [_pages/home.md](https://github.com/climate-modelling/climate-modelling.github.io/edit/main/_pages/home.md)
