@@ -16,18 +16,18 @@ intro:
 #   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
-  - image_path: /assets/images/climatebench.png
-    alt: "Global temperature map"
-    title: "ClimateBench"
-    excerpt: "A benchmark dataset for the emulation of full-complexity climate models."
-    url: "/projects/climatebench_app/"
+  - image_path: https://github.com/user-attachments/assets/5e614339-820d-4c9a-a545-318863ff8b35
+    alt: "SpeedyWeather simulation"
+    title: "SpeedyWeather.jl"
+    excerpt: "An interactive, flexible atmospheric model built to accelerate climate research."
+    url: "/projects/speedyweather/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/shiptracks_small.jpg
-    alt: "Shiptracks"
-    title: "Detecting ship tracks"
-    excerpt: "Using machine learning to automatically detect the brightening effect that shipping can have on clouds."
-    url: "/projects/shiptracks"
+  - image_path: https://github.com/user-attachments/assets/65bb61b7-ce6f-48d7-b08d-d9fdc08c56fa
+    alt: "Bitinformation"
+    title: "Data compression and BitInformation"
+    excerpt: "Compressing atmospheric data into its real information content"
+    url: "/projects/data-compression"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/emulator_schematic.svg
