@@ -1,6 +1,6 @@
 ---
 title: "[OPEN] Fast yet flexible: Atmospheric modelling and high-perfomance computing on the GPU"
-excerpt:  "SpeedyWeather goes zoooooom!"
+excerpt:  "High-resolution weather and climate models are a massive high-performance computing endeavour"
 header:
 teaser: "https://github.com/user-attachments/assets/9fbd74b9-94f8-421e-b7ac-f6d76364ee7e"
 share: false
@@ -14,7 +14,6 @@ tags:
   - GPU programming
   - Scientific computing
 ---
-<img width="1000" height="500" alt="frame0040" src="https://github.com/user-attachments/assets/9fbd74b9-94f8-421e-b7ac-f6d76364ee7e" />
 
 # [OPEN] Fast yet flexible: Atmospheric modelling and high-perfomance computing on the GPU
 
