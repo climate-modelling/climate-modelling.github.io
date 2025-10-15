@@ -11,32 +11,32 @@ header:
 excerpt: 
     "at the University of Oxford"
 intro: 
-  - excerpt: <cite>The Climate Modelling research group at Oxford is ... </cite>
+  - excerpt: <cite>The Climate Modelling research group at Oxford combines climate and computer science to build better models of the climate on Earth and other planets. We do research on numerical modelling, machine learning and high-performance computing for efficient predictions of future climates; data compression and information theory; and software engineering to build next-generation climate models. </cite>
 
 #   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
-# feature_row:
-#   - image_path: /assets/images/climatebench.png
-#     alt: "Global temperature map"
-#     title: "ClimateBench"
-#     excerpt: "A benchmark dataset for the emulation of full-complexity climate models."
-#     url: "/projects/climatebench_app/"
-#     btn_class: "btn--primary"
-#     btn_label: "Learn more"
-#   - image_path: /assets/images/shiptracks_small.jpg
-#     alt: "Shiptracks"
-#     title: "Detecting ship tracks"
-#     excerpt: "Using machine learning to automatically detect the brightening effect that shipping can have on clouds."
-#     url: "/projects/shiptracks"
-#     btn_class: "btn--primary"
-#     btn_label: "Learn more"
-#   - image_path: /assets/images/emulator_schematic.svg
-#     alt: "Emulator schematic"
-#     title: "Model Emulation for Calibration"
-#     excerpt: "Developing climate model emulators for better parameter estimation and calibration."
-#     url: "/projects/emulation/"
-#     btn_class: "btn--primary"
-#     btn_label: "Learn more"      
+feature_row:
+  - image_path: /assets/images/climatebench.png
+    alt: "Global temperature map"
+    title: "ClimateBench"
+    excerpt: "A benchmark dataset for the emulation of full-complexity climate models."
+    url: "/projects/climatebench_app/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/shiptracks_small.jpg
+    alt: "Shiptracks"
+    title: "Detecting ship tracks"
+    excerpt: "Using machine learning to automatically detect the brightening effect that shipping can have on clouds."
+    url: "/projects/shiptracks"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/emulator_schematic.svg
+    alt: "Emulator schematic"
+    title: "Model Emulation for Calibration"
+    excerpt: "Developing climate model emulators for better parameter estimation and calibration."
+    url: "/projects/emulation/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"    
 ---
 
 {% include feature_row id="intro" type="center" %}
