@@ -1,6 +1,6 @@
 ---
 title: "Machine learning in atmospheric models with generalization in space and time"
-# excerpt:  "test test test"
+excerpt:  "Learning the physics not a hardcoded representation of continents with their specific climates"
 header:
 teaser: "https://github.com/milankl/StochasticRounding.jl/blob/55a74db797d2d58c44224b9d5ceb7eec97663f73/figs/logo.png"
 share: false
@@ -10,11 +10,13 @@ share: false
 code: http://github.com/milankl/StochasticRoudning.jl
 # data: https://doi.org/10.5281/zenodo.5196512
 
-# tags:
-#   - test1
-#   - test2
-#   - test3
+tags:
+  - Machine learning
+  - Numerical weather prediction
+  - Generalization
 ---
+
+# Machine learning in atmospheric models with generalization in space and time
 
 If you were to take Graphcast and push the world outside of its climate distribution (think global warming) the models likely produce garbage
 because in their latent space they have a hardcoded representation of, say, surface temperatures in the tropics being warmer than in mid-latitudes.
