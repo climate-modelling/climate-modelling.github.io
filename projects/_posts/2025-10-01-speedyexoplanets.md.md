@@ -1,20 +1,20 @@
 ---
 title: "[OPEN] Differentiable atmospheric modelling: Learning from data between Earth’s and exoplanetary climates"
-# excerpt:  "test test test"
+excerpt:  "Atmospheric general circulation models are the backbone of climate models, being used to understand and predict climate change on Earth and understand climate on exoplanets."
 header:
-teaser: "https://github.com/milankl/StochasticRounding.jl/blob/55a74db797d2d58c44224b9d5ceb7eec97663f73/figs/logo.png"
+teaser: "https://github.com/user-attachments/assets/a8bdf88a-d779-43b0-8cf2-79fee5d1d806"
 share: false
-# featured_figure: 
-#   image: "https://www.science.org/cms/10.1126/sciadv.aay4740/asset/5f0263bd-fc33-4dc6-87df-46a19f3ab895/assets/graphic/aay4740-f2.jpeg"
-# learn_more: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002954
+featured_figure: 
+  image: "https://github.com/user-attachments/assets/a8bdf88a-d779-43b0-8cf2-79fee5d1d806"
 code: http://github.com/SpeedyWeather/SpeedyWeather.jl
-# data: https://doi.org/10.5281/zenodo.5196512
 
 tags:
   - Automatic differentiation
   - Exoplanets
   - Atmospheric modelling
 ---
+
+# [OPEN] Differentiable atmospheric modelling: Learning from data between Earth’s and exoplanetary climates
 
 _supervised together with [Tad Komacek](https://www.physics.ox.ac.uk/our-people/komacek) (Oxford)_
 
