@@ -25,11 +25,11 @@ feature_row:
     url: "/projects/data-compression"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/emulator_schematic.svg
-    alt: "Emulator schematic"
-    title: "Model Emulation for Calibration"
-    excerpt: "Developing climate model emulators for better parameter estimation and calibration."
-    url: "/projects/emulation/"
+  - image_path: https://github.com/user-attachments/assets/c6e8a307-072b-4022-a56d-2af486fc46fd
+    alt: "Testing MLWP"
+    title: "Testing generalisation of Machine Learning-based models"
+    excerpt: "Machine learning has to respect the physics to generalise to future climates"
+    url: "/projects/spatialgeneralisation/"
     btn_class: "btn--primary"
     btn_label: "Learn more"    
 ---
