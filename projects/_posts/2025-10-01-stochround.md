@@ -2,10 +2,10 @@
 title: "StochasticRounding.jl: Up or down, maybe both?"
 excerpt:  "Stochastic rounding introduces random numbers in every little +, -, *, /, ... with big impacts on large scales of a simulated system"
 header:
-teaser: "https://github.com/user-attachments/assets/b99026e3-fce4-4274-bdb5-2b1084e8325b"
+teaser: https://github.com/user-attachments/assets/177e601a-1ce0-4f2a-af18-75367fb894f3
 share: false
 featured_figure: 
-  image: "https://github.com/user-attachments/assets/b99026e3-fce4-4274-bdb5-2b1084e8325b"
+  image: https://github.com/user-attachments/assets/177e601a-1ce0-4f2a-af18-75367fb894f3
 
 tags:
   - Scientific computing
@@ -22,7 +22,7 @@ during an algorithm and heavily flaw an entire simulation. Given the high precis
 this problem is reduced but it never entirely goes away. So you may ask, what if we rounded sqrt(2) = 1.41... at
 a chance of 41% to 2 and 59% chance down to 1. On average that would be correct and yields visibly better results:
  
-<img width="40%" alt="4 4Percent" src="https://github.com/user-attachments/assets/9efb3c2e-6724-4c12-9906-b3f34ddb3f10" />
+<img width="60%" alt="4 4Percent" src="https://github.com/user-attachments/assets/9efb3c2e-6724-4c12-9906-b3f34ddb3f10" />
 
 In scientific computing, stochastic rounding is new emerging rounding mode that is not (yet?) widely available on
 hardware. Your CPU/GPU simply doesn't support it as people in the 1980s did not think that might be a good idea
@@ -35,7 +35,7 @@ So we built Julia's [StochasticRounding.jl](https://github.com/milankl/Stochasti
 that lets you play with stochastic rounding on Float64, Float32, Float16 or BFloat16 and we can do research on the impact
 of this stochastic rounding on weather and climate simulations, for example:
 
-<img width="40%" alt="4 5Turbulence6416bit" src="https://github.com/user-attachments/assets/0787deb9-6fc2-48d4-80fa-38bc2d6d9b96" />
+<img width="60%" alt="4 5Turbulence6416bit" src="https://github.com/user-attachments/assets/0787deb9-6fc2-48d4-80fa-38bc2d6d9b96" />
 
 In many cases stochastic rounding has a very beneficial impact, effectively increasing the precision at the efficiency
 and memory footprint of low-precision computations (assuming your hardware supports it at no extra cost) and with
