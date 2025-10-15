@@ -2,10 +2,10 @@
 title: "Machine learning in atmospheric models with generalization in space and time"
 excerpt:  "Learning the physics not a hardcoded representation of continents with their specific climates"
 header:
-teaser: "https://github.com/milankl/StochasticRounding.jl/blob/55a74db797d2d58c44224b9d5ceb7eec97663f73/figs/logo.png"
+teaser: "https://github.com/user-attachments/assets/8093e7a6-0f63-4062-bf5c-c42b689a670f"
 share: false
 featured_figure: 
-  image: "https://github.com/milankl/StochasticRounding.jl/blob/55a74db797d2d58c44224b9d5ceb7eec97663f73/figs/logo.png"
+  image: "https://github.com/user-attachments/assets/8093e7a6-0f63-4062-bf5c-c42b689a670f"
 
 tags:
   - Machine learning
