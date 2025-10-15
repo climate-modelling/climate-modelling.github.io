@@ -113,7 +113,7 @@ analytics:
 author:
   name             : "Climate Modelling Research Group"
   avatar           : "/assets/images/kloewer_lab2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Bits and bytes of the climate system."
+  bio              : "Bits and bytes\n of the climate system."
   location         : "University of Oxford"
   email            : "milan.kloewer@physics.ox.ac.uk"
   links:
