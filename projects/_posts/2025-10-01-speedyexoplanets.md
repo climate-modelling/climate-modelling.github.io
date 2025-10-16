@@ -2,10 +2,10 @@
 title: "Differentiable atmospheric modelling for Earth and exoplanets"
 excerpt:  "Atmospheric general circulation models are the backbone of climate models, being used to understand and predict climate change on Earth and understand climate on exoplanets."
 header:
-teaser: "https://github.com/user-attachments/assets/a8bdf88a-d779-43b0-8cf2-79fee5d1d806"
+teaser: https://github.com/user-attachments/assets/dc7b0fc8-cffd-4ffd-aa40-274e8cbb53f2
 share: false
 featured_figure: 
-  image: "https://github.com/user-attachments/assets/a8bdf88a-d779-43b0-8cf2-79fee5d1d806"
+  image: https://github.com/user-attachments/assets/dc7b0fc8-cffd-4ffd-aa40-274e8cbb53f2
 code: http://github.com/SpeedyWeather/SpeedyWeather.jl
 
 tags:
