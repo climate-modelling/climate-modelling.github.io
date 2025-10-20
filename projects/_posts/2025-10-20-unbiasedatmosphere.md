@@ -22,7 +22,8 @@ tags:
 Miniproject for CDT/DTP rotations, with [Fenwick Cooper](https://www.physics.ox.ac.uk/our-people/cooperf)
 and [Charlotte Merchant](https://intelligent-earth.ox.ac.uk/people/charlotte-merchant)
 
-https://github.com/user-attachments/assets/b2b87f47-c357-4a11-8799-802905ef4a12
+<video src="https://github.com/user-attachments/assets/b2b87f47-c357-4a11-8799-802905ef4a12" controls="controls" style="max-width: 700px;">
+</video>
 
 ### Goal
 
