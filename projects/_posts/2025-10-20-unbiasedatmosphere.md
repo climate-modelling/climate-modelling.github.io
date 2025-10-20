@@ -3,12 +3,10 @@ title: "An unbiased atmospheric climate model"
 excerpt:  "To correct the large biases in state-of-the-art climate models with a ML model of the sub-grid tendencies."
 header: "An unbiased atmospheric climate model"
 teaser: https://github.com/user-attachments/assets/9c8dd01c-405e-4f5c-8e8b-f2603642a507
-share: true
+share: false
 featured_figure: 
   image: https://github.com/user-attachments/assets/9c8dd01c-405e-4f5c-8e8b-f2603642a507
 learn_more: https://www.sciencedirect.com/science/article/pii/S1463500316301688
-code:
-data:
 
 tags:
   - Scientific computing
