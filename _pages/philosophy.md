@@ -31,7 +31,7 @@ Students are generally encouraged to go to several conferences over the course o
 ones are not mandatory. Milan is very happy to help you make decisions on conference attendance,
 here is some general advice.
 
-#### How to fund conference attendance?
+_How to fund conference attendance?_
 
 In the Physics Department typically every student has their own research budget that can be used for
 conference attendance. It’s your responsibility to manage that budget financially, however,
@@ -41,7 +41,7 @@ Their membership fees can be reimbursed from your research budget. Some conferen
 can be very expensive in terms of fees but also in terms of travel (especially overseas and summer season)
 and accommodation (especially in bigger cities). Balance this with your expectations and budget.
 
-#### Which conference to attend?
+_Which conference to attend?_
 
 Think about which research communities you want to integrate into.
 Depending on the research field, method or location different people will attend that might be more or less
@@ -58,7 +58,7 @@ Abstract submissions are often many months before the conference.
 It is okay not to have all the work done that you would like to present at the conference but be careful in your wording.
 Do not promise too much.
 
-#### Conference travel
+_Conference travel_
 
 The university offers [travel insurance](https://travelinsurance.admin.ox.ac.uk) for free and please check university
 and embassy guidance and visa requirements for specific countries. In most cases we book and get reimbursed after
@@ -69,7 +69,7 @@ Oxford regards AirBnB as unsecure so some special permissions might be required.
 if possible, can cut conference costs by a lot. Oxford lets you freely combine conferences, research visits or vacation.
 Feel free to book your travels so you can make the most of a journey.
 
-#### Preparing conference attendance
+_Preparing conference attendance_
 
 You may want to reach out to people who you would like to set up meetings with during the conference.
 At smaller conferences evenings at bars or restaurants happen often more spontaneously but at bigger conferences you can try
@@ -77,14 +77,14 @@ to schedule lunch or dinner meetings. At the biggest conferences, some researche
 it even started! Often you need to upload a presentation days in advance so that the conveners have time to organise the session,
 keep this in mind when preparing your attendance.
 
-#### At and after conferences
+_At and after conferences_
 
 If there are many sessions, try to pick the ones that you definitely want to see in advance
 but conference programmes can be very overwhelming too. If you feel overwhelmed, it is okay to skip a session and recharge.
 Often the informal chats can be much more informative than the formal sessions, so feel free to make time for this.
 Take time to recover after the conference.
 
-#### Conference sustainability 
+_Conference sustainability_
 
 Conference attendance dominates for most scientists their greenhouse gas emissions.
 This typically scales with the number of conferences attended and approximately linearly with the distance flown.
