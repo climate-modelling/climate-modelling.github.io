@@ -20,4 +20,4 @@ author_profile: true
 
 ### Summer schools
 
-- [NCAS Climate Modelling Summer School](https://ncas.ac.uk/study-with-us/climate-modelling-summer-school/) using [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl) for the hands-on sessions, Cambridge UK, Sep 2025
+- [NCAS Climate Modelling Summer School](https://ncas.ac.uk/study-with-us/climate-modelling-summer-school/) using [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl) for the hands-on sessions in week 2, Cambridge UK, Sep 2025
