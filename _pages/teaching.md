@@ -7,6 +7,8 @@ author_profile: true
 
 ### University courses
 
+- [TravellingSailorProblem](https://github.com/SpeedyWeather/TravellingSailorProblem.jl): A [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl) tutorial, [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/), University of Oxford, Nov 2025
+- General circulation models, [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/), University of Oxford, Nov 2025
 - [RainMaker](https://github.com/SpeedyWeather/RainMaker.jl): A [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl) tutorial, [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/), University of Oxford, Nov 2024
 - Introduction to Atmospheric Modelling, [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/), University of Oxford, Nov 2024
 
