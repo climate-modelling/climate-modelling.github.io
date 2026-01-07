@@ -8,6 +8,10 @@ toc_sticky: true
 
 ## Journal Articles
 
+### 2026
+
+- Gössling, S, M Klöwer, JC Leitão, S Hirsch, D Brockenhagen, A Humpe. *Large carbon dioxide emissions avoidance potential in improved commercial air transport efficiency*, **Nature Communications Earth & Environment**, [10.1038/s43247-025-03069-4](https://doi.org/10.1038/s43247-025-03069-4)|
+
 ### 2025
 
 - Schulz, H, M Klöwer, A Spring. *xbitinfo: Compressing geospatial data based on information theory*, **Journal of Open Source Software**, [10.21105/joss.09178](https://doi.org/10.21105/joss.09178)
