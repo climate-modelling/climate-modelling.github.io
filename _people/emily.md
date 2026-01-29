@@ -4,6 +4,6 @@ firstname: "Emily"
 pub_id: "E Morris"
 role: "PhD Student"
 programme: "now at Google"
-status: "alumni"
+status: "alumn"
 image_path: "/assets/images/headshots/emily.jpg"
 ---
