@@ -6,5 +6,6 @@ role: "PhD Student"
 programme: "Intelligent Earth CDT"
 status: "active"
 pronouns: "he/him"
-image_path: "/assets/images/headshots/baby_elephant.png"
+image_path: "/assets/images/headshots/greg.jpeg"
+website: "https://gregrmunday.github.io"
 ---
