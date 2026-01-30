@@ -14,8 +14,8 @@ author_profile: true
 
 ### Workshops
 
+- [TravellingSailorProblem](https://github.com/SpeedyWeather/TravellingSailorProblem.jl): A [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl) tutorial, [JuliaEO 2026](https://aircentre.github.io/JuliaEO26/), Terceira, Azores, Portugal, Jan 2026
 - [SciML in Fluid Dynamics (CFD): Surrogates of Weather Models](https://www.youtube.com/watch?v=PfRxU2kMysU) (led by Rackauckas & Abdelrehim), [JuliaCon 2025](https://pretalx.com/juliacon-2025/talk/MWHF8J/), Pittsburgh, PA, USA, July 2025
-
 - [RainMaker](https://github.com/SpeedyWeather/RainMaker.jl): A [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl) tutorial, [JuliaEO 2025](https://aircentre.github.io/JuliaEO25/), Azores Portugal, Jan 2025
 
 ### Summer schools
