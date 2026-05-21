@@ -7,6 +7,7 @@ author_profile: true
 
 ### University courses
 
+- [Chaos, random processes and predictability](https://github.com/milankl/OxfordPhysicsS32), [Physics MPhys/BA](https://www.physics.ox.ac.uk/study/undergraduates) short option, 5 lectures, University of Oxford, April-May 2026
 - [TravellingSailorProblem](https://github.com/SpeedyWeather/TravellingSailorProblem.jl): A [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl) tutorial, [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/), University of Oxford, Nov 2025
 - General circulation models, [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/), University of Oxford, Nov 2025
 - [RainMaker](https://github.com/SpeedyWeather/RainMaker.jl): A [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl) tutorial, [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/), University of Oxford, Nov 2024
