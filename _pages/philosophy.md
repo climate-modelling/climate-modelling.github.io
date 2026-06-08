@@ -21,6 +21,34 @@ to suggest changes.
 
 ## Open science
 
+Open science is at the heart of our group's philosophy. We are not a company with business secrets
+but want to do research benefitting society and write software that others can use and contribute to.
+Most projects that Milan works on are open from day 1.
+But sometimes data comes with licenses you are legally required to respect.
+Or maybe you work on a project you do not want to hand out to all companies for free so they can profit. 
+Unfortunately, also in academia ideas can be stolen and published by others without giving credit accordingly.
+So striking a balance how to do open is not easy!
+Open science is about open access publications (reader do not pay but authors might),
+open data (others can use your data too), open source software (others can use your software too and extend it).
+
+Some useful links from 
+[UKRI](https://www.ukri.org/what-we-offer/supporting-healthy-research-and-innovation-culture/open-research/),
+[University of Oxford's data management policy](https://researchdata.ox.ac.uk/university-oxford-data-management-policy), 
+and [Oxford University Press's open research pages](https://academic.oup.com/pages/open-research/open-access?login=true).
+Next to arXiv, GitHub, GitLab, HuggingFace and plenty of others, also Oxford's
+[ORA](https://ora.ox.ac.uk/) and [Zenodo](https://zenodo.org/) and it is recommended
+for every student to get an [ORCID](https://orcid.org/) as many journals use this to
+identify researches uniquely.
+
+You are always encouraged to start a discussion on open science, many things you will learn
+earlier or later at the surface but the devil is often in the detail as open science is full
+of legal complexity too. There is many confusing aspects and it is impossible to give an
+appropriate overview here. One day you will learn something about
+[software licenses](https://dev.to/juanisidoro/open-source-licenses-which-one-should-you-pick-mit-gpl-apache-agpl-and-more-2026-guide-p90)
+to choose for your projects (MIT, Apache, GPL, or EUPL?) and on another the differences
+between [gold, green and diamond open access](https://open-access.network/en/information/open-access-primers/green-and-gold)
+publications.
+
 ## Conferences
 
 Conferences, (including meetings, workshops or summer schools) are an integral part of doing research.
@@ -123,7 +151,29 @@ days with a lower frequency of scheduled meetings.
 
 ## Group meetings
 
+At the moment we have group meetings every other week roughly termly rescheduled to
+meet most group members' availabilities. While many research groups
+have it weekly, most of us also attend the meetings of other groups and so overall
+that easily becomes a bit much sometimes. But we might revisit this occasionally
+also depending on the size of the group. More people have more to say and so
+likely need more time to say what they want to say. Group meetings are losely
+mandatory. No questions asked but if you are in Oxford please come along unless
+you have important other conflicts that cannot be rescheduled.
+You can always join online too.
+
 ## Invidiual meetings
+
+Students have different preferences. Some like a scheduled meeting every week so
+they are booked into their supervisors calendar and either side can still cancel
+if there is nothing to discuss. Other students prefer to meet less regularly.
+There is a risk to have too many meetings but also to not make any progress
+because of many reasons that could be resolved in a meeting.
+Finding the right balance is always difficult and the ideal balance likely
+changes over time so both sides are encouraged to communicate their meeting
+needs. But as always students have a right to regular and useful supervision
+and should not feel comfortable to request them any time.
+Milan's door is also often for many parts of the day and you are welcome to pop
+by for questions. If that leads to a 1-hour discussion and loads of ideas, great!
 
 ## Collaborative work
 
