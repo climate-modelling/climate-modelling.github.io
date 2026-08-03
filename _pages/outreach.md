@@ -4,7 +4,6 @@ title: "Outreach and media coverage"
 layout: archive
 author_profile: true
 ---
-https://www.youtube.com/shorts/8jURIuUkik8
 
 |04/2026| 🎥 Video comment on reducing aviation emissions on University of Oxford's [YouTube](https://www.youtube.com/shorts/8jURIuUkik8), and other social media channels |
 |-|-|
