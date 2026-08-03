@@ -10,6 +10,7 @@ toc_sticky: true
 
 ### 2026
 
+- Höver, M, M Klöwer, C Schroeder de Witt, HM Christensen. *Spatial Generalization Tests for Machine Learning-based Weather Models to Assess Physical Consistency*, submitted, preprint: [arxiv.org/abs/2607.20716](https://arxiv.org/abs/2607.20716)|
 - Reichelt, T, J Tyree, M Klöwer, P Dueben, BN Lawrence, AH Baker, S Faghih-Naini, T Hoefler, P Stier. *ClimateBenchPress (v1.0): a benchmark for lossy compression of climate data*, Geoscientific Model Development, [10.5194/gmd-19-5933-2026](https://doi.org/10.5194/gmd-19-5933-2026), preprint: [10.5194/egusphere-2026-60](https://doi.org/10.5194/egusphere-2026-60)
 - N Viebig, 2006. *Automatic Differentiation for Climate Model Calibration: A Gradient-Based Framework for Parameter Estimation in SpeedyWeather.jl*. Master's thesis, **ETH Zürich**, [10.3929/ethz-c-000799367](https://doi.org/10.3929/ethz-c-000799367)
 - WS Moses, G Cheng, V Churavy, M Gelbrecht, M Klöwer, J Kump, M Morlighem, S Williamson, D Apte, P Berg, M Giordano, C Hill, N Loose, A Montoison, SHK Narayan, A Pal, M Schanen, S Silvestri, G Wagner, P Heimbach. *DJ4Earth: Differentiable, and Performance-portable Earth System Modeling via Program Transformations*, **Journal of Advances in Modeling Earth Systems**, [10.1029/2025MS005615](https://doi.org/10.1029/2025MS005615), preprint: [10.22541/essoar.176314951.18114616/v2](https://doi.org/10.22541/essoar.176314951.18114616/v2)
