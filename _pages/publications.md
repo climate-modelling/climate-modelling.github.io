@@ -10,6 +10,7 @@ toc_sticky: true
 
 ### 2026
 
+- Tyree, J, R Underwood, C Bouvier, D Köhler, T Reichelt, P Dueben, S Faghih-Naini, H Järvinen, and M Klöwer. *Compression Safeguards: Building Trust into Lossy Data Compression*, **Geoscientific Model Development**, in review, preprint: [10.5194/egusphere-2026-4266](https://doi.org/10.5194/egusphere-2026-4266)
 - Höver, M, M Klöwer, C Schroeder de Witt, HM Christensen. *Spatial Generalization Tests for Machine Learning-based Weather Models to Assess Physical Consistency*, submitted, preprint: [arxiv.org/abs/2607.20716](https://arxiv.org/abs/2607.20716)
 - Reichelt, T, J Tyree, M Klöwer, P Dueben, BN Lawrence, AH Baker, S Faghih-Naini, T Hoefler, P Stier. *ClimateBenchPress (v1.0): a benchmark for lossy compression of climate data*, Geoscientific Model Development, [10.5194/gmd-19-5933-2026](https://doi.org/10.5194/gmd-19-5933-2026), preprint: [10.5194/egusphere-2026-60](https://doi.org/10.5194/egusphere-2026-60)
 - N Viebig, 2006. *Automatic Differentiation for Climate Model Calibration: A Gradient-Based Framework for Parameter Estimation in SpeedyWeather.jl*. Master's thesis, **ETH Zürich**, [10.3929/ethz-c-000799367](https://doi.org/10.3929/ethz-c-000799367)
