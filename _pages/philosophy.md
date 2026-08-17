@@ -9,7 +9,7 @@ toc_sticky: true
 Our group philosophy is a living document. We regularly revisit these paragraphs
 and include outcomes of recent discussions of how we want to do research together.
 So first principle of our group philosophy is that it's written by its members
-not just decided by the most senior person in the group.
+not just decided by the most senior person in the group. 
 
 As this is a work in progress members can
 [create a pull request](https://github.com/climate-modelling/climate-modelling.github.io/edit/main/_pages/philosophy.md)
@@ -304,7 +304,7 @@ informally communicated so that other members of the group are aware
 that no response to communication has to be expected. Plan and communicate those
 ideally a little further ahead but in general no permission is required.
 Milan believes vacation flexibility can massively contribute to
-personal wellbeing in academia by making space for other important things in life.
+personal well-being in academia by making space for other important things in life.
 
 ## Acknowledgements
 
