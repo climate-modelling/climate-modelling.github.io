@@ -19,6 +19,19 @@ to suggest changes.
 
 ## Mental Health
 
+This research group recognises the importance of mental health generally as well as part of our work environment.
+The mental health of everyone is different and while some people regularly have a flu or an upset stomach others
+may experience more pronounced ups and downs in their mental health. There is no pressure to perform well during
+phases of mental (or equally physical) health issues but people are expected to take time off to look after
+themselves when needed. Every deadline can be postponed, including PhD defenses (viva in Oxford slang) and
+there’s always another conference you can attend. Milan missed his own viva (it was postponed) and could not give
+a recent conference talk, and that’s okay. We normalise this, practice open communication, confidential where
+needed and regard mental health issues as serious and always valid. At the same time, members of a research
+group are not normally also mental health professionals or trained in mental health first aid. Such a level
+of support is essential for more serious issues. Group members are therefore encouraged to have a support network
+in place to be prepared, which may span from colleagues and friends in the department or college to friends and
+family to professional mental health services as provided by the University or the NHS.
+
 ## Open science
 
 Open science is at the heart of our group's philosophy. We are not a company with business secrets
