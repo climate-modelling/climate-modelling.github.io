@@ -10,6 +10,7 @@ toc_sticky: true
 
 ### 2026
 
+- B Pastine, M Klöwer, T Tang, L Slater. *A neural network-based Universal Thermal Climate Index for reliable global thermal-stress classification across extreme weather*, submitted, preprint: [arxiv.org/abs/2609.35949](https://arxiv.org/abs/2609.35949)
 - CC Merchant, M Klöwer, B Stanley-Clamp, M Höver, SLL Michel, E Groot, HM Christensen. *How Do AI Climate Models Respond to Warming Across Climate Zones?*, submitted, preprint: [arxiv.org/abs/2608.17986](https://arxiv.org/abs/2608.17986)
 - Tyree, J, R Underwood, C Bouvier, D Köhler, T Reichelt, P Dueben, S Faghih-Naini, H Järvinen, and M Klöwer. *Compression Safeguards: Building Trust into Lossy Data Compression*, **Geoscientific Model Development**, in review, preprint: [10.5194/egusphere-2026-4266](https://doi.org/10.5194/egusphere-2026-4266)
 - Höver, M, M Klöwer, C Schroeder de Witt, HM Christensen. *Spatial Generalization Tests for Machine Learning-based Weather Models to Assess Physical Consistency*, in review, preprint: [arxiv.org/abs/2607.20716](https://arxiv.org/abs/2607.20716)
