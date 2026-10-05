@@ -30,7 +30,10 @@ needed and regard mental health issues as serious and always valid. At the same 
 group are not normally also mental health professionals or trained in mental health first aid. Such a level
 of support is essential for more serious issues. Group members are therefore encouraged to have a support network
 in place to be prepared, which may span from colleagues and friends in the department or college to friends and
-family to professional mental health services as provided by the University or the NHS.
+family to professional mental health services as provided by the University or the [NHS](https://www.nhs.uk/conditions/stress-anxiety-depression/student-mental-health/).
+For further resources see [Disability Advisory Service](https://www.ox.ac.uk/students/welfare/disability?wssl=1),
+[University Counselling Service](https://www.ox.ac.uk/students/welfare/counselling?wssl=1), or also
+external organizations like [Student Minds](https://www.studentminds.org.uk/).
 
 ## Open science
 
@@ -217,6 +220,8 @@ As a student writing a thesis, collaborations are important, often an asset, tho
 your progress towards a thesis - sometimes unexpectedly or outside of your control.
 At Oxford, theses can include contributions from other researchers, whether published (you or them as co-author)
 or not, but generally this has to be explicitly stated. Details can be discussed on a case-by-case basis.
+
+## AI usage
 
 ## Communication
 
