@@ -30,24 +30,24 @@ automatically by modern compiler technology, here using the automatic differenti
 
 ## Method
 
-For a model $dx/dt = f(x)$ denote the flow map, i.e. integrating the model forward from initial conditions $x_0$
-over an optimisation time $T$, as $x(T) = \Phi_T(x_0)$. A small initial perturbation $\delta x_0$ then evolves
-approximately linearly as $\delta x(T) = M \delta x_0$, where the propagator $M = \partial \Phi_T / \partial x_0$
+For a model dx/dt = f(x) denote the flow map, i.e. integrating the model forward from initial conditions x₀
+over an optimisation time T, as x(T) = Φ(x₀). A small initial perturbation δx₀ then evolves
+approximately linearly as δx(T) = M δx₀, where the propagator M = ∂Φ/∂x₀
 is the Jacobian of the flow map, i.e. the tangent linear model integrated along the trajectory.
-The initial perturbation that grows most over $[0, T]$, measured in a chosen norm, maximises
-$\lVert M \delta x_0 \rVert / \lVert \delta x_0 \rVert$. It is the leading right singular vector of
-$M = U \Sigma V^T$; the singular values $\sigma_i$ are the respective amplification factors and the left singular vectors
-are the structures these perturbations evolve into at time $T$. Unlike eigenvectors of the (generally non-normal) linearised
-dynamics, singular vectors capture transient, finite-time growth [6], and in the limit $T \to \infty$ the growth rates
-$\log(\sigma_i)/T$ converge to the Lyapunov exponents [7].
+The initial perturbation that grows most over [0, T], measured in a chosen norm, maximises
+‖M δx₀‖ / ‖δx₀‖. It is the leading right singular vector of
+M = UΣVᵀ; the singular values σᵢ are the respective amplification factors and the left singular vectors
+are the structures these perturbations evolve into at time T. Unlike eigenvectors of the (generally non-normal) linearised
+dynamics, singular vectors capture transient, finite-time growth [6], and in the limit T → ∞ the growth rates
+log(σᵢ)/T converge to the Lyapunov exponents [7].
 
 The project proceeds in steps of increasing efficiency:
 
-1. **Explicit Jacobian.** Compute $M$ column by column with forward-mode automatic differentiation via Enzyme
+1. **Explicit Jacobian.** Compute M column by column with forward-mode automatic differentiation via Enzyme
 (one Jacobian-vector product, i.e. one tangent linear integration, per degree of freedom), then take a dense SVD.
 This is exact for the discretised model and feasible at low resolution.
-2. **Matrix-free singular vectors.** At higher resolution $M$ cannot be stored. Instead, Jacobian-vector products ($Mv$, forward mode)
-and vector-Jacobian products ($M^T u$, reverse mode, i.e. the adjoint model) are passed to an iterative Lanczos
+2. **Matrix-free singular vectors.** At higher resolution M cannot be stored. Instead, Jacobian-vector products (Mv, forward mode)
+and vector-Jacobian products (Mᵀu, reverse mode, i.e. the adjoint model) are passed to an iterative Lanczos
 or randomised SVD algorithm to obtain only the leading few singular vectors, as done operationally [1, 4].
 Reverse mode requires storing the trajectory, so checkpointing will be explored for longer optimisation times.
 3. **Norms and ensembles.** Singular vectors depend on the chosen norm, e.g. kinetic or total energy [4, 8].
