@@ -7,6 +7,7 @@ author_profile: true
 
 ### University courses
 
+- [Chiaroscuro.jl](https://github.com/SpeedyWeather/Chiaroscuro.jl), A hybrid climate modelling tutorial, [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/), University of Oxford, Nov 2026
 - [Chaos, random processes and predictability](https://github.com/milankl/OxfordPhysicsS32), [Physics MPhys/BA](https://www.physics.ox.ac.uk/study/undergraduates) short option, 5 lectures, University of Oxford, April-May 2026
 - [TravellingSailorProblem](https://github.com/SpeedyWeather/TravellingSailorProblem.jl): A [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl) tutorial, [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/), University of Oxford, Nov 2025
 - General circulation models, [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/), University of Oxford, Nov 2025
